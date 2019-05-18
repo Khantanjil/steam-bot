@@ -16,4 +16,9 @@ When you finalyze the donwload  go to the file "config.json" and edit to your us
 
 And save it and go again to folder location "cd/users/youraccount/desktop/steam-bot-master" cmd and write node steam.js
 When appears Steam guard code: write the steam guard
-
+ When the output is showed "yes" means that correctly work
+ 
+ 
+ 
+ 
+ 
