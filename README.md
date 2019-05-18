@@ -1,5 +1,6 @@
 # steam-bot
 This is my first program i have created.
+Thats program is for idling hours of games
 
 
 To use my files donwload first the node.js https://nodejs.org/en/
