@@ -15,4 +15,5 @@ And u write that command:   npm install steam-user
 When you finalyze the donwload  go to the file "config.json" and edit to your username and password and save, dont forget to open with sublime text 3
 
 And save it and go again to folder location "cd/users/youraccount/desktop/steam-bot-master" cmd and write node steam.js
+When appears Steam guard code: write the steam guard
 
