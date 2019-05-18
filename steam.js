@@ -11,7 +11,7 @@ client.logOn(logInOptions)
 
 client.on ('loggedOn', () => {
 	console.log('yes');
-	client.setPersona(SteamUser.EPersonaState.Offline);
+	client.setPersona(SteamUser.EPersonaState.Online);
 	client.gamesPlayed(730);
 });
 
