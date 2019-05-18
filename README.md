@@ -6,9 +6,9 @@ To use my files donwload first the node.js https://nodejs.org/en/
 
 And use the text editor to write the code, i have used the sublime text 3 https://www.sublimetext.com/3
 
-Create a folder on desktop and past the files and rename the folder to "SteamBot"
+Unzip the folder to desktop
 
-And when u pasted the files on folder go to the cmd with administrator and go cd/users/youraccount/desktop/SteamBot
+Go to the cmd with administrator and go cd/users/youraccount/desktop/steam-bot-master
 
 And u write that command:   npm install steam-user
 
